@@ -16,3 +16,24 @@ The dashboard provides a clear view of sales performance and helps identify tren
 ## Source Data
 
 ![Source Data](Data.png)
+
+## Dashboard Features
+
+- **KPI Cards:** Total Revenue, Total Quantity, Average Revenue, and Total Orders.
+- **Revenue by Region:** Compare sales performance across different regions.
+- **Revenue by Product Category:** Identify the highest-performing product categories.
+- **Sales Channel Analysis:** Analyze revenue across different sales channels using a Doughnut Chart.
+- **Top 5 Sales:** Highlight the top five sales performances.
+- **Monthly Revenue Analysis:** Track maximum revenue generated in each month.
+- **Interactive Filters:** Use slicers to filter and explore sales data.
+- **Data Visualization:** Present business insights through interactive charts and graphs.
+
+
+
+
+
+
+
+
+
+
