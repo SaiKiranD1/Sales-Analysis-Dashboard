@@ -29,14 +29,22 @@ The dashboard provides a clear view of sales performance and helps identify tren
 - **Data Visualization:** Present business insights through interactive charts and graphs.
 
 ## Files Included
+
 | File | Description |
 |---|---|
 | DASHBOARD.xlsx | Completed Excel dashboard |
-| Dashboard.png | Preview of the final dashboard |
+| DASHBOARD.png | Preview of the final dashboard |
 | Data.png | Preview of the source data |
 | README.md | Project documentation |
 
+## How to Download and Use
 
+1. Download your-dashboard.xlsx.
+2. Open the workbook using Microsoft Excel.
+3. Navigate to the dashboard worksheet.
+4. Use the available filters and slicers to explore the results.
+
+[Download the Excel Dashboard](DASHBOARD.xlsx)
 
 
 
