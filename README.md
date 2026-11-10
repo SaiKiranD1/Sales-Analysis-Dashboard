@@ -2,7 +2,7 @@
 Interactive Sales Dashboard built using Microsoft Excel, featuring Pivot Tables, Pivot Charts, KPIs, and slicers to analyze sales performance and generate meaningful business insights.
 
 ## Project Preview
-![Project Preview](DASHBOARD.png)
+https://github.com/user-attachments/assets/0cd01f9b-0a9d-4707-90af-43b17e98b9f5
 
 ## Project Overview
 This project focuses on developing an interactive Sales Analysis Dashboard using Microsoft Excel to analyze and visualize sales data. It provides insights into sales performance, product categories, revenue trends, and business performance through interactive charts, Pivot Tables, and slicers. The dashboard helps users identify sales patterns, monitor key performance indicators (KPIs), and make data-driven business decisions.
@@ -51,7 +51,7 @@ The dashboard provides a clear view of sales performance and helps identify tren
 
 
 
-https://github.com/user-attachments/assets/0cd01f9b-0a9d-4707-90af-43b17e98b9f5
+
 
 
 
