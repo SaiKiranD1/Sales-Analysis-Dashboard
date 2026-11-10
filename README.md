@@ -28,7 +28,13 @@ The dashboard provides a clear view of sales performance and helps identify tren
 - **Interactive Filters:** Use slicers to filter and explore sales data.
 - **Data Visualization:** Present business insights through interactive charts and graphs.
 
-
+## Files Included
+| File | Description |
+|---|---|
+| DASHBOARD.xlsx | Completed Excel dashboard |
+| Dashboard.png | Preview of the final dashboard |
+| Data.png | Preview of the source data |
+| README.md | Project documentation |
 
 
 
